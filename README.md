@@ -1,7 +1,7 @@
 # cubot
-hi
-- [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
-- [x] list syntax required (any unordered or ordered list supported)
-- [x] this is a complete item
-- [ ] this is an incomplete item
-*Test*
+##ToDO
+- [] @sabeelmuttil, **setup common database for crawler and bot**
+- [] @sabeelmuttil, **Find a framework or initialize php scripts**
+- [] @muhammadanaswayanad, **prepare python crawler**
+- [] @muhammadanaswayanad, **initialize bot**
+*This project is incomplete*
